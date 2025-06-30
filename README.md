@@ -1,5 +1,5 @@
 
-# Project Title
+# Mood Tracker Project
 
 MoodMirror: Daily Mood Tracker Using AI
 
